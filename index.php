@@ -1,5 +1,5 @@
-<?
-php echo "add-to-home-screen | Test Unit";
+<?php
+echo "add-to-home-screen | Test Unit";
 ?>
 <html>
 	<head>
