@@ -1,4 +1,7 @@
-<!DOCTYPE html public "add-to-home-screen test unit">
+<?
+php echo "add-to-home-screen | Test Unit";
+?>
+<html>
 	<head>
 		<meta charset="utf-8" />
 		<meta name="theme-color" content="#536878" />
@@ -22,4 +25,3 @@
 		}
 	</script>
 </html>
-
