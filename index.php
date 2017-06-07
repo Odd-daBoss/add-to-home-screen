@@ -14,7 +14,21 @@
 		<link href='https://fonts.googleapis.com/css?family=Dosis' rel='stylesheet'>
 		<style>
 		body {
-    	font-family: 'Dosis';font-size: 22px;
+    	font-family: 'Dosis';font-size: 12px;
+
+			background-repeat: no-repeat;
+			background-image: url('images/screen_small.png');
+
+		}
+		@media only screen and (min-width: 400px) {
+			body {
+				background-image: url('images/screen_midsize.png');
+			}
+		@media only screen and (min-width: 700px) {
+			body {
+				background-image: url('images/screen_large.png');
+			}
+		}
 		}
 		</style>
 
@@ -33,15 +47,6 @@
 		<?php
 		echo "add-to-home-screen | Test Unit";
 		?>
-
-		<picture>
-			<source srcset="images/screen_small.png">
-			<source srcset="images/screen_midsize.png" media="screen and (min-width: 550px)">
-			<source srcset="images/screen_large.png" media="screen and (min-width: 700px)">
-			<img src="images/screen_large.png" alt="Screen Preview" style="width: auto;">
-		</picture>
-
-		<p>add-to-home-screen | ITS</p>
 	</body>
 
 	<!-- 4/4) Add this script -->
