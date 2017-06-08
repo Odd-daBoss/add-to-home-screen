@@ -3,7 +3,7 @@
 	"name": "T2R|ITS",
 	"icons": [
 	{	"src": "images/logo144x144.png",
-		"size": "144x144",
+		"sizes": "144x144",
 		"type": "image/png"
 	}],
 	"start_url": "/?utm_source=homescreen",
