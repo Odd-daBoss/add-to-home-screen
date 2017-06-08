@@ -2,8 +2,8 @@
 	"short_name": "T2R|ITS",
 	"name": "T2R|ITS",
 	"icons": [
-	{	"src": "images/logo120x120.png",
-		"size": "120x120",
+	{	"src": "images/logo144x144.png",
+		"size": "144x144",
 		"type": "image/png"
 	}],
 	"start_url": "/?utm_source=homescreen",
