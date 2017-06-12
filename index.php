@@ -11,11 +11,11 @@
 	<!-- Safari on iOS -->
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="apple-mobile-web-app-status-bar-style" content="black">
-		<meta name="apple-mobile-web-app-title" content="T2R|ITS">
+		<meta name="apple-mobile-web-app-title" content="T2R">
 		<link rel="apple-touch-icon" href="images/touch/apple-touch-icon.png">
 
 	<!-- 2/4) Identical title here, manifest.html - short_name and name -->
-		<title>T2R|ITS</title>
+		<title>T2R</title>
 
 		<link href='https://fonts.googleapis.com/css?family=Dosis' rel='stylesheet'>
 		<style>
