@@ -8,6 +8,12 @@
 
 		<meta name=viewport content="width=device-width, initial-scale=1.0">
 
+	<!-- Safari on iOS -->
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta name="apple-mobile-web-app-title" content="T2R|ITS">
+		<link rel="apple-touch-icon" href="images/touch/apple-touch-icon.png">
+
 	<!-- 2/4) Identical title here, manifest.html - short_name and name -->
 		<title>T2R|ITS</title>
 
